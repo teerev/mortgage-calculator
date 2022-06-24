@@ -15,5 +15,10 @@ m = mortgage(principal=200000,     # Amount *borrowed* (not the property price),
             )
 ````
 
+The function mortgage() can be run without external dependencies.
 
+To run the notebook:
 
+````bash
+pip install -r requirements.txt
+````
