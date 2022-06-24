@@ -1,2 +1,2 @@
 # mortgage-calculator
-Simple mortgage calculator for personal finances
+Simple fixed rate mortgage calculator for personal finances
